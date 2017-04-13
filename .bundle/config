@@ -1,2 +1,2 @@
 ---
-BUNDLE_WITHOUT: production:productino:protection
+BUNDLE_WITHOUT: production
